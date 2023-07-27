@@ -1,8 +1,13 @@
-# Welcome to the Zendesk Apps Framework Sample App Repository
 [![Zendesk Logo](https://github.com/tipenehughes/sample-repo/blob/main/hero.png)](https://www.zendesk.com/)
-## Introduction
+# Welcome to the Zendesk Apps Framework Sample App Repository
 Welcome to the official Zendesk Apps Framework sample app repository! Here, you'll find a collection of sample applications and examples developed on our platform, showcasing the incredible potential and versatility of the Zendesk Apps Framework. As a developer-friendly platform, we empower you to build apps that seamlessly integrate with Zendesk, streamlining your customer support and enhancing your users' experience.
-## What is Zendesk Apps Framework?
+## Table of Contents
+- [What is the Zendesk Apps Framework?](#what-is-the-Zendesk-Apps-Framework?)
+- [Key Features](#key-features)
+- [Sample Applications](#sample-applications)
+- [Getting Started](#getting-started)
+- [Join Our Developer Community](#join-our-developer-community)
+## What is the Zendesk Apps Framework?
 The Zendesk Apps Framework is a powerful toolset that enables developers like you to create custom apps that directly integrate with Zendesk. Whether you're looking to extend the functionality of your support system, automate repetitive tasks, or deliver a personalized customer experience, our platform provides the building blocks you need.
 ## Key Features
 - **Custom App Development:** ZAF allows developers to create custom apps that run directly within the Zendesk Support interface. These apps can be tailored to meet specific business needs and extend the functionality of Zendesk.
