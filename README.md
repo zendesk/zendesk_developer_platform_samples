@@ -1,5 +1,5 @@
 # Welcome to the Zendesk Apps Framework Sample App Repository
-[![Zendesk Logo](https://your-logo-url.png)](https://www.zendesk.com/)
+[![Zendesk Logo](https://github.com/tipenehughes/sample-repo/blob/main/hero.png)](https://www.zendesk.com/)
 ## Introduction
 Welcome to the official Zendesk Apps Framework sample app repository! Here, you'll find a collection of sample applications and examples developed on our platform, showcasing the incredible potential and versatility of the Zendesk Apps Framework. As a developer-friendly platform, we empower you to build apps that seamlessly integrate with Zendesk, streamlining your customer support and enhancing your users' experience.
 ## What is Zendesk Apps Framework?
