@@ -17,9 +17,11 @@ The Zendesk Apps Framework is a powerful toolset that enables developers like yo
 In this repository, we've curated a collection of sample applications to inspire and guide you on your development journey. Each example demonstrates the power of the Zendesk Apps Framework and how it can elevate your Zendesk experience.
 | App      | Description                                     |
 | --------------- | ----------------------------------------------- |
-| [Sample App 1](link-to-sample-app-1)   | A brief description of the first sample application. |
-| [Sample App 2](link-to-sample-app-2)   | A brief description of the second sample application. |
-| [Sample App 3](link-to-sample-app-3)   | A brief description of the third sample application. |
+| [activation_events_demo_zaf_app](https://github.com/zendesk/activation_events_demo_zaf_app)   | This app is installed in every location and outputs a notification to the Zendesk UI and to the browser's Console window when an event is detected. |
+| [metadata_call_demo_zaf_app](https://github.com/zendesk/metadata_call_demo_zaf_app)   | This app demonstrates usage of the client.metadata() method to retrieve installation metadata such as app ID and installation ID. |
+| [change_requester_demo_zaf_app](https://github.com/zendesk/change_requester_demo_zaf_app)   | This app demonstrates one use of ZAF's client.request method, where we create or update a user with the Create or Update User endpoint when a ticket update is submitted in the agent interface. |
+| [client_request_cors_demo_zaf_app](https://github.com/zendesk/client_request_cors_demo_zaf_app)   | This app is a companion to the knowledge base article that describes the ZAF client.request method and its CORS option. |
+| [hide_ticket_field_demo_zaf_app](https://github.com/zendesk/hide_ticket_field_demo_zaf_app)   | This app demonstrates ZAF's ticket field hide functionality. |
    <!-- Add more sample apps with links and descriptions as needed -->
 ## Getting Started
 Whether you're a beginner or an expert developer, our platform caters to all skill levels. If you're new to the Zendesk Apps Framework, fear not! We've got you covered with comprehensive documentation and API references that walk you through every step of the development process.
