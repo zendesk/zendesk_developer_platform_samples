@@ -7,6 +7,10 @@ Welcome to the official Zendesk Developer Platform sample app repository! Here, 
 - [What is the Zendesk Developer Platform?](#what-is-the-zendesk-developer-platform?)
 - [Key Features](#key-features)
 - [Sample Applications](#sample-applications)
+   - [Zendesk Apps Framework](#zaf)
+   - [Help Center](#hc)
+   - [Mobile SDK](#sdk)
+   - [Sunshine Conversations](#sunco)
 - [Getting Started](#getting-started)
 - [Join Our Developer Community](#join-our-developer-community)
 
@@ -25,13 +29,36 @@ Whether you're looking to extend the functionality of your support system, autom
 ## Sample Applications
 
 In this repository, we've curated a collection of sample applications and customizations to inspire and guide you on your development journey. Each example demonstrates the power of the Zendesk Developer Platform and how it can elevate your Zendesk experience.
-| App | Description |
+| <span id="zaf">Zendesk Apps Framework</span> | |
 | --------------- | ----------------------------------------------- |
-| [activation_events_demo_zaf_app](https://github.com/zendesk/activation_events_demo_zaf_app) | This app is installed in every location and outputs a notification to the Zendesk UI and to the browser's Console window when an event is detected. |
-| [metadata_call_demo_zaf_app](https://github.com/zendesk/metadata_call_demo_zaf_app) | This app demonstrates usage of the client.metadata() method to retrieve installation metadata such as app ID and installation ID. |
-| [change_requester_demo_zaf_app](https://github.com/zendesk/change_requester_demo_zaf_app) | This app demonstrates one use of ZAF's client.request method, where we create or update a user with the Create or Update User endpoint when a ticket update is submitted in the agent interface. |
-| [client_request_cors_demo_zaf_app](https://github.com/zendesk/client_request_cors_demo_zaf_app) | This app is a companion to the knowledge base article that describes the ZAF client.request method and its CORS option. |
-| [hide_ticket_field_demo_zaf_app](https://github.com/zendesk/hide_ticket_field_demo_zaf_app) | This app demonstrates ZAF's ticket field hide functionality. |
+| [ZAF Activation events](https://github.com/zendesk/activation_events_demo_zaf_app) | This app is installed in every location and outputs a notification to the Zendesk UI and to the browser's Console window when an event is detected. |
+| [Getting metadata in an app](https://github.com/zendesk/metadata_call_demo_zaf_app) | This app demonstrates usage of the client.metadata() method to retrieve installation metadata such as app ID and installation ID. |
+| [Change ticket requester](https://github.com/zendesk/change_requester_demo_zaf_app) | This app demonstrates one use of ZAF's client.request method, where we create or update a user with the Create or Update User endpoint when a ticket update is submitted in the agent interface. |
+| [ZAF Network Request Behavior](https://github.com/zendesk/client_request_cors_demo_zaf_app) | This app is a companion to the knowledge base article that describes the ZAF client.request method and its CORS option. |
+| [Hide assignee field](https://github.com/zendesk/hide_ticket_field_demo_zaf_app) | This app demonstrates ZAF's ticket field hide functionality. |
+| [Notifying an agent](https://github.com/zendesk/notifying-an-agent-demo-zaf-app) | This background app demonstrates one approach that could be used to notify a specific agent that they have been assigned a ticket in Zendesk Support. |
+| [Talk Partner Sample App](https://github.com/zendesk/talk_partner_sample_app) | This repo contains a reference implementation to help developers build apps for Zendesk products using Talk Partner Edition APIs. |
+| [React Skeleton for Sell Apps](https://github.com/zendesk/sell-zaf-app-scaffold) | The package allows you to bootstrap a React-based application, that's integrated with Zendesk App Framework(ZAF), and enables you to quickly get started with developing apps for Zendesk Sell. |
+
+| <span id="hc">Help Center</span> | |
+| --------------- | ----------------------------------------------- |
+| [Custom Pages in Zendesk Help Center](https://github.com/zendesk/custom-pages-example) | ​A showcase of the Custom Pages functionality. Custom Pages is an addition to help center themes in Zendesk Guide. |
+| [Custom Pages React Boilerplate](https://github.com/zendesk/custom-pages-react-boilerplate) | A react boilerplate based off of Create React App to build single page applications for Zendesk Guide's new custom page's feature |
+| [Help Center sample snippets](https://github.com/zendesk/demo-snippets) | This repository provides you with sample snippets you can use with Zendesk Guide and other Zendesk products. |
+
+| <span id="sdk">Mobile SDK</span> | |
+| --------------- | ----------------------------------------------- |
+| ["Remember the Date" demo app - iOS](https://github.com/zendesk/sdk_demo_app_ios) | The "Remember the Date" demo app demonstrates how to use the Zendesk Mobile SDK to build native support into your mobile application. |
+| ["Remember the Date" demo app - Android](https://github.com/zendesk/sdk_demo_app_android) | The "Remember the Date" demo app demonstrates how to use the Zendesk Mobile SDK to build native support into your mobile application. |
+| [Zendesk Sample Apps for iOS](https://github.com/zendesk/ios_sdk_demo_apps) | This repository provides you with sample apps to help learn how to use the Zendesk platform for iOS development |
+| [Zendesk Sample Apps for Android](https://github.com/zendesk/android_sdk_demo_apps) | This repository provides you with sample apps to help learn how to use the Zendesk platform for android development |
+
+| <span id="sunco">Sunshine Conversations</span> | |
+| --------------- | ----------------------------------------------- |
+| [Sunshine Conversations API Examples](https://github.com/zendesk/sunshine-conversations-api-quickstart-example) | ​A reference guide to the Sunshine Conversations API |
+| [Shoplifter](https://github.com/zendesk/sunshine-conversations-shoplifter) | A reference implementation of Sunshine Conversations OAuth flows. |
+| [smooch-pipeline_triage_intercom-demo](https://github.com/zendesk/sunshine-conversations-pipeline_triage_intercom-demo) | An example project that demonstrates how to dispatch user messages between Zendesk and Intercom |
+
 
    <!-- Add more sample apps with links and descriptions as needed -->
 
