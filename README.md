@@ -52,6 +52,8 @@ In this repository, we've curated a collection of sample applications and custom
 | ["Remember the Date" demo app - Android](https://github.com/zendesk/sdk_demo_app_android) | The "Remember the Date" demo app demonstrates how to use the Zendesk Mobile SDK to build native support into your mobile application. |
 | [Zendesk Sample Apps for iOS](https://github.com/zendesk/ios_sdk_demo_apps) | This repository provides you with sample apps to help learn how to use the Zendesk platform for iOS development |
 | [Zendesk Sample Apps for Android](https://github.com/zendesk/android_sdk_demo_apps) | This repository provides you with sample apps to help learn how to use the Zendesk platform for android development |
+| [iOS demo applications for the Zendesk SDK](https://github.com/zendesk/zendesk_sdk_demo_apps_ios) | This repository provides you with demo Apps to help learn how to use Zendesk SDK on iOS. |
+| [Android demo applications for the Zendesk SDK](https://github.com/zendesk/zendesk_sdk_demo_apps_android) | This repository provides you with demo Apps to help learn how to use Zendesk SDK on iOS. |
 
 | <span id="sunco">Sunshine Conversations</span> | |
 | --------------- | ----------------------------------------------- |
