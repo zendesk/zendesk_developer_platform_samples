@@ -77,3 +77,5 @@ At Zendesk, we believe in the power of collaboration. Join our thriving develope
 ## Let's Get Building!
 
 Are you ready to unleash the full potential of Zendesk and revolutionize your customer support workflow? Dive into our sample applications, explore the possibilities, and let your creativity shine! If you have any questions, feedback, or need assistance, don't hesitate to reach out to us on the community forum or Slack workspace.
+
+**Note**: Zendesk provides the samples in this repository for instructional purposes only. Zendesk does not provide support for the code in this repository.
